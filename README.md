@@ -4,9 +4,9 @@ Show, Attend and Distill: Knowledge Distillation via Attention-based Feature Mat
 Official pytorch implementation of "Show, Attend and Distill: Knowledge Distillation via Attention-based Feature Matching" (AAAI-2021)
 
 # Requirements
-Python3 \n
-PyTorch (> 1.2.0) \n
-torchvision
+Python3 <br>
+PyTorch (> 1.2.0) <br>
+torchvision <br>
 numpy
 
 from this link download all files
